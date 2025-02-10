@@ -34,6 +34,7 @@ body {
     color: rgb(184, 13, 13);
     display: flex;
     align-items: center;
+   
 }
 
 .logo-text {
@@ -130,6 +131,7 @@ body {
     bottom: 50px;
     width: 400px;
     height: auto;
+    
 }
 .search-section {
     padding: 20px;
@@ -250,6 +252,7 @@ p{
 .footer .footer-column ul{
     list-style: none;
     padding: 0;
+   
 }
 .footer .footer-column ul li{
     margin-bottom: 10px;
